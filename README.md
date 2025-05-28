@@ -66,12 +66,6 @@ Found a bug? Have an idea? Feel free to open an issue or submit a pull request!
 
 MIT License - Do whatever you want with it! (Just give credit where it's due 😊)
 
-## 👋 About Me
-
-Hey! I'm StrongAndMal. You can find me on:
-
-- [Instagram](https://www.instagram.com/strongandmal/)
-
 ## 🙏 Thanks
 
 Big shoutout to the open-source community for making this possible! 🎉
