@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔗 URL Shortener
 
 Turn those long, messy URLs into short, sweet links! Built with love using React, TypeScript, and Express.
@@ -14,35 +15,35 @@ Turn those long, messy URLs into short, sweet links! Built with love using React
 
 1. **Get the Code**
 
-   ```bash
-   git clone https://github.com/StrongAndMal/URLShortner.git
-   cd URLShortner
-   ```
+    ```bash
+    git clone [https://github.com/StrongAndMal/URLShortner.git](https://github.com/StrongAndMal/URLShortner.git)
+    cd URLShortner
+    ```
 
 2. **Install Everything**
 
-   ```bash
-   # Frontend
-   npm install
+    ```bash
+    # Frontend
+    npm install
 
-   # Backend
-   cd backend
-   npm install
-   ```
+    # Backend
+    cd backend
+    npm install
+    ```
 
 3. **Start the Party**
 
-   ```bash
-   # Start backend (in backend directory)
-   npm run dev
+    ```bash
+    # Start backend (in backend directory)
+    npm run dev
 
-   # Start frontend (in root directory)
-   npm run dev
-   ```
+    # Start frontend (in root directory)
+    npm run dev
+    ```
 
 4. **Open Your Browser**
-   - Frontend: [http://localhost:5173](http://localhost:5173)
-   - Backend: [http://localhost:3000](http://localhost:3000)
+    - Frontend: [http://localhost:5173](http://localhost:5173)
+    - Backend: [http://localhost:3000](http://localhost:3000)
 
 ## 🎯 How to Use
 
@@ -74,3 +75,11 @@ Hey! I'm StrongAndMal. You can find me on:
 ## 🙏 Thanks
 
 Big shoutout to the open-source community for making this possible! 🎉
+=======
+# url-shortner
+Turn those long, messy URLs into short, sweet links! Built with love using React, TypeScript, and Express.
+>>>>>>> a3e24ddc7f2a85b7a182177de03937bde4d5c4e3
+
+
+
+this is my README file
